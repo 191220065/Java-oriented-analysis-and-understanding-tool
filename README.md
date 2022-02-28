@@ -2,9 +2,9 @@
 
 ## 1.介绍
 
-面向Java的分析与理解工具，该工具为应用 [Javaparser](https://javaparser.org) 的一个简单的示例代码。新建maven项目，并添加javaparser依赖后的代码框架。
+面向Java的分析与理解工具，该工具为应用 [Javaparser](https://javaparser.org)的一个简单的示例代码。新建maven项目，并添加javaparser依赖后的代码框架。
 
-## 2.使用说明
+## 2.使用说明
 
 * 环境变量：请自行配置好 [Java11](https://www.oracle.com/java/technologies/downloads/#java11) 环境
 * data文件夹中存放了一些Java代码，作为本demo的演示。
